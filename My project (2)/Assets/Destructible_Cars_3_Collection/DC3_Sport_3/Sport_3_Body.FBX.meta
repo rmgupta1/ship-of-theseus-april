@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: d88542cb3de437643a884acd4df353c3
+timeCreated: 1493756042
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: DC3_Sport_3_Body
+    100002: DC3_Sport_3_Door_BL
+    100004: DC3_Sport_3_Door_BR
+    100006: DC3_Sport_3_Door_FL
+    100008: DC3_Sport_3_Door_FR
+    100010: DC3_Sport_3_Glass_B
+    100012: DC3_Sport_3_Glass_BL
+    100014: DC3_Sport_3_Glass_BR
+    100016: DC3_Sport_3_Glass_F
+    100018: DC3_Sport_3_Glass_FL
+    100020: DC3_Sport_3_Glass_FR
+    100022: DC3_Sport_3_Glass_LightsR
+    100024: DC3_Sport_3_Glass_Tesselated_B
+    100026: DC3_Sport_3_Glass_Tesselated_BL
+    100028: DC3_Sport_3_Glass_Tesselated_BR
+    100030: DC3_Sport_3_Glass_Tesselated_F
+    100032: DC3_Sport_3_Glass_Tesselated_FL
+    100034: DC3_Sport_3_Glass_Tesselated_FR
+    100036: DC3_Sport_3_Hood
+    100038: DC3_Sport_3_Interior
+    100040: DC3_Sport_3_Interior_Gearbox
+    100042: DC3_Sport_3_Interior_Handle_L
+    100044: DC3_Sport_3_Interior_Handle_R
+    100046: DC3_Sport_3_Interior_Speedometer
+    100048: DC3_Sport_3_Interior_Steering_Wheel
+    100050: DC3_Sport_3_Interior_Tachometer
+    100052: DC3_Sport_3_Roof
+    100054: DC3_Sport_3_Trunk
+    100056: //RootNode
+    400000: DC3_Sport_3_Body
+    400002: DC3_Sport_3_Door_BL
+    400004: DC3_Sport_3_Door_BR
+    400006: DC3_Sport_3_Door_FL
+    400008: DC3_Sport_3_Door_FR
+    400010: DC3_Sport_3_Glass_B
+    400012: DC3_Sport_3_Glass_BL
+    400014: DC3_Sport_3_Glass_BR
+    400016: DC3_Sport_3_Glass_F
+    400018: DC3_Sport_3_Glass_FL
+    400020: DC3_Sport_3_Glass_FR
+    400022: DC3_Sport_3_Glass_LightsR
+    400024: DC3_Sport_3_Glass_Tesselated_B
+    400026: DC3_Sport_3_Glass_Tesselated_BL
+    400028: DC3_Sport_3_Glass_Tesselated_BR
+    400030: DC3_Sport_3_Glass_Tesselated_F
+    400032: DC3_Sport_3_Glass_Tesselated_FL
+    400034: DC3_Sport_3_Glass_Tesselated_FR
+    400036: DC3_Sport_3_Hood
+    400038: DC3_Sport_3_Interior
+    400040: DC3_Sport_3_Interior_Gearbox
+    400042: DC3_Sport_3_Interior_Handle_L
+    400044: DC3_Sport_3_Interior_Handle_R
+    400046: DC3_Sport_3_Interior_Speedometer
+    400048: DC3_Sport_3_Interior_Steering_Wheel
+    400050: DC3_Sport_3_Interior_Tachometer
+    400052: DC3_Sport_3_Roof
+    400054: DC3_Sport_3_Trunk
+    400056: //RootNode
+    2300000: DC3_Sport_3_Body
+    2300002: DC3_Sport_3_Door_BL
+    2300004: DC3_Sport_3_Door_BR
+    2300006: DC3_Sport_3_Door_FL
+    2300008: DC3_Sport_3_Door_FR
+    2300010: DC3_Sport_3_Glass_B
+    2300012: DC3_Sport_3_Glass_BL
+    2300014: DC3_Sport_3_Glass_BR
+    2300016: DC3_Sport_3_Glass_F
+    2300018: DC3_Sport_3_Glass_FL
+    2300020: DC3_Sport_3_Glass_FR
+    2300022: DC3_Sport_3_Glass_LightsR
+    2300024: DC3_Sport_3_Glass_Tesselated_B
+    2300026: DC3_Sport_3_Glass_Tesselated_BL
+    2300028: DC3_Sport_3_Glass_Tesselated_BR
+    2300030: DC3_Sport_3_Glass_Tesselated_F
+    2300032: DC3_Sport_3_Glass_Tesselated_FL
+    2300034: DC3_Sport_3_Glass_Tesselated_FR
+    2300036: DC3_Sport_3_Hood
+    2300038: DC3_Sport_3_Interior
+    2300040: DC3_Sport_3_Interior_Gearbox
+    2300042: DC3_Sport_3_Interior_Handle_L
+    2300044: DC3_Sport_3_Interior_Handle_R
+    2300046: DC3_Sport_3_Interior_Speedometer
+    2300048: DC3_Sport_3_Interior_Steering_Wheel
+    2300050: DC3_Sport_3_Interior_Tachometer
+    2300052: DC3_Sport_3_Roof
+    2300054: DC3_Sport_3_Trunk
+    3300000: DC3_Sport_3_Body
+    3300002: DC3_Sport_3_Door_BL
+    3300004: DC3_Sport_3_Door_BR
+    3300006: DC3_Sport_3_Door_FL
+    3300008: DC3_Sport_3_Door_FR
+    3300010: DC3_Sport_3_Glass_B
+    3300012: DC3_Sport_3_Glass_BL
+    3300014: DC3_Sport_3_Glass_BR
+    3300016: DC3_Sport_3_Glass_F
+    3300018: DC3_Sport_3_Glass_FL
+    3300020: DC3_Sport_3_Glass_FR
+    3300022: DC3_Sport_3_Glass_LightsR
+    3300024: DC3_Sport_3_Glass_Tesselated_B
+    3300026: DC3_Sport_3_Glass_Tesselated_BL
+    3300028: DC3_Sport_3_Glass_Tesselated_BR
+    3300030: DC3_Sport_3_Glass_Tesselated_F
+    3300032: DC3_Sport_3_Glass_Tesselated_FL
+    3300034: DC3_Sport_3_Glass_Tesselated_FR
+    3300036: DC3_Sport_3_Hood
+    3300038: DC3_Sport_3_Interior
+    3300040: DC3_Sport_3_Interior_Gearbox
+    3300042: DC3_Sport_3_Interior_Handle_L
+    3300044: DC3_Sport_3_Interior_Handle_R
+    3300046: DC3_Sport_3_Interior_Speedometer
+    3300048: DC3_Sport_3_Interior_Steering_Wheel
+    3300050: DC3_Sport_3_Interior_Tachometer
+    3300052: DC3_Sport_3_Roof
+    3300054: DC3_Sport_3_Trunk
+    4300000: DC3_Sport_3_Glass_F
+    4300002: DC3_Sport_3_Body
+    4300004: DC3_Sport_3_Hood
+    4300006: DC3_Sport_3_Trunk
+    4300008: DC3_Sport_3_Door_BL
+    4300010: DC3_Sport_3_Door_FL
+    4300012: DC3_Sport_3_Door_BR
+    4300014: DC3_Sport_3_Door_FR
+    4300016: DC3_Sport_3_Roof
+    4300018: DC3_Sport_3_Interior_Gearbox
+    4300020: DC3_Sport_3_Interior_Speedometer
+    4300022: DC3_Sport_3_Interior_Tachometer
+    4300024: DC3_Sport_3_Interior_Steering_Wheel
+    4300026: DC3_Sport_3_Interior_Handle_L
+    4300028: DC3_Sport_3_Interior_Handle_R
+    4300030: DC3_Sport_3_Interior
+    4300032: DC3_Sport_3_Glass_FR
+    4300034: DC3_Sport_3_Glass_BR
+    4300036: DC3_Sport_3_Glass_B
+    4300038: DC3_Sport_3_Glass_BL
+    4300040: DC3_Sport_3_Glass_FL
+    4300042: DC3_Sport_3_Glass_LightsR
+    4300044: DC3_Sport_3_Glass_Tesselated_FR
+    4300046: DC3_Sport_3_Glass_Tesselated_F
+    4300048: DC3_Sport_3_Glass_Tesselated_BR
+    4300050: DC3_Sport_3_Glass_Tesselated_B
+    4300052: DC3_Sport_3_Glass_Tesselated_BL
+    4300054: DC3_Sport_3_Glass_Tesselated_FL
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.9
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
